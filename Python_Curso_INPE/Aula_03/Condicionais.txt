@@ -1,0 +1,12 @@
+Condicionais
+if
+else
+elif
+
+Ex:
+if expressão lógica:
+    bloco de código
+elif expressão lógica:
+    bloco de Código
+else:
+    bloco de código 

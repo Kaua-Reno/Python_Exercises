@@ -1,0 +1,15 @@
+Tipo Lógico: bool
+True e False
+
+Operadores Lógicos:
+And: a=True and b=True -> True
+Or: a=False or b=True -> True
+Not: a= Not False -> True
+
+Operadores Relacionais ou de Comparação:
+== : igual
+!= : diferente
+< : menor que
+<= : menor ou igual a 
+> : maior que
+>= : maior ou igual a
