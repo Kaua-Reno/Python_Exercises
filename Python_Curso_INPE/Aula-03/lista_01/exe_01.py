@@ -1,5 +1,8 @@
 #Exercício 
 
+from typing import Type
+
+
 print(type(1))
 #int
 
@@ -17,3 +20,5 @@ print(type(False))
 
 print(type(5+3j))
 #complex
+
+print(type("Texto teste"))
