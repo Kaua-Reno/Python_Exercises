@@ -1,0 +1,9 @@
+s.index(x) -> Índice da primeira ocorrência de x
+s.count(x) -> Número total de ocorrências de x em s
+
+Tuplas
+As tuplas são expressas através de
+uma sequência cujos itens são separados
+por vírgula e, delimitados ou não por
+parênteses
+
