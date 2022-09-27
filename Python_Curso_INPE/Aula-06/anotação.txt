@@ -117,11 +117,9 @@ ex:
 
 s.replace(old, new[, count]) -> substitui toda ocorrencia do old pelo new
 ex:
->>> "Gilberto Ribeiro de Queiroz".replace("i"
-, "@")
+>>> "Gilberto Ribeiro de Queiroz".replace("i", "@")
 'G@lberto R@be@ro de Que@roz'
->>> "Gilberto Ribeiro de Queiroz".replace("i"
-, "@", 2)
+>>> "Gilberto Ribeiro de Queiroz".replace("i", "@", 2)
 'G@lberto R@beiro de Queiroz'
 
 Outras Operações:
