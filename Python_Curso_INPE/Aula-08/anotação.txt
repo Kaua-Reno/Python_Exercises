@@ -1,1 +1,33 @@
-#função interna zip: Esta função retorna uma lista de tuplas, onde a i-ésima tupla contém o i-ésimo elemento de cada um dos argumentos.
+função interna zip: Esta função retorna uma lista de tuplas, onde a i-ésima tupla contém o i-ésimo elemento de cada um dos argumentos.
+
+Dicionários
+• Tipo de conjunto onde os valores são indexados por 
+chaves que, em geral, são números inteiros ou 
+strings.
+Também são denominados de arrays associativos.
+
+Dicionários: Considerações
+• Dicionários podem ser alterados (mutáveis).
+• O dicionário vazio é representado por
+    d = {}
+• Uma chave em um dicionário pode estar associada 
+a outro dicionário.
+• Uma chave pode estar associada a uma lista.
+
+Funções
+• Uma forma que temos de modularizar nossos 
+programas consiste em organizá-los em 
+procedimentos ou funções. • Uma função é um bloco de código auto-contido, 
+identificado com um nome, uma lista de 
+parâmetros e que pode ser invocada em nossos 
+programas da mesma forma que as funções do 
+Python.
+
+Laços: Considerações*
+• Interrompendo um laço:
+    • Podemos utilizar dentro dos laços a instrução break, que faz com que o fluxo de execução do laço seja quebrado, isto é, desviado para a instrução seguinte ao laço.
+
+• Desviando a sequência de um laço:
+    • A instrução continue desvia o fluxo de execução de dentro do laço para a próxima iteração.
+
+• Em geral essas duas instruções são colocadas dentro de um teste condicional no corpo do laço**.
