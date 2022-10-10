@@ -22,3 +22,14 @@ produtos = vendas_df[['Produto', 'Valor Unitário']]
 #método .loc -> pega linhas de acordo com algumas condições
 
 #pegar uma linha especifica
+#displayhook(vendas_df.loc[1])
+
+#pegar linhas que corespondem a uma condição
+#vendas_norteshopping_df = (vendas_df.loc[vendas_df['ID Loja'] == 'Norte Shopping'])
+
+#pegar varias linhas e colunas
+#vendas_norteshopping_df = vendas_df.loc[vendas_df['ID Loja'] == 'Norte Shopping', ['ID Loja', 'Produto', 'Quantidade']]
+#print(vendas_norteshopping_df)
+
+# pegar um dado especifico
+print(vendas_df)
