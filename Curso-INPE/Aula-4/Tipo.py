@@ -1,0 +1,5 @@
+print(type("Gilberto"))
+print(type(30))
+print(type(22.5))
+print(type(5/2+4*5))
+print(type([1,3,5,7]))
